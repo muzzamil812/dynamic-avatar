@@ -1,9 +1,12 @@
-import { useState } from "react";
-
-import "./App.css";
+// import "./App.css";
+import AvatarCanvas from "./components/Avatar";
 
 function App() {
-  return <>Test</>;
+  return (
+    <>
+      <AvatarCanvas />
+    </>
+  )
 }
 
 export default App;
