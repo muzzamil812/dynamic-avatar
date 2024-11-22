@@ -2,7 +2,7 @@ import "./App.css";
 
 import AvatarCanvas from "./components/Avatar";
 import ColorfulText from "./components/ColorfullText";
-import Heart from "./components/Heart";
+
 import TeddyBear from "./components/TeddyBear";
 
 const App = () => (
